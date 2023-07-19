@@ -12,7 +12,7 @@ This is an electronic case management library app.
 
 – Spring Boot 2.7
 – Spring Security
-- Data JPA (+ Hibernate)
+– Data JPA (+ Hibernate)
 – Code coverage tests (JUnit, Moskito)
 
 #### Details
